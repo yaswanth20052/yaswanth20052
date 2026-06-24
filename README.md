@@ -217,18 +217,6 @@ AI-powered solution focused on intelligent automation and real-world problem sol
 
 </div>
 
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=yaswanth20052&theme=tokyonight&row=1&column=6&no-frame=true"/>
-
-</div>
-
----
-
 # 📈 Contribution Graph
 
 <div align="center">
