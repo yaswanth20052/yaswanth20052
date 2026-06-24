@@ -1,179 +1,375 @@
-<div align="center">
+Build a premium, production-ready personal portfolio website for:
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:2563EB,100:06B6D4&text=Yaswanth%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+AMMINENI YASWANTH KUMAR
 
-<h3>🚀 AI & Software Engineering Enthusiast</h3>
+Tech Stack:
+- React + Vite
+- TypeScript
+- Tailwind CSS
+- Framer Motion
+- Three.js
+- TSParticles
+- React Icons
 
-<p>
-Final-Year B.Tech CSE Student | Building Intelligent Solutions with AI & Modern Technologies
-</p>
+Design Goal:
+Create a world-class AI Engineer portfolio that looks better than a typical student portfolio.
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=2500&pause=1000&center=true&width=700&lines=Artificial+Intelligence+Enthusiast;Machine+Learning+Developer;Full+Stack+Developer;Always+Learning+New+Technologies" />
+Inspiration:
+- OpenAI
+- NVIDIA
+- Vercel
+- Stripe
+- DeepMind
 
-</div>
+Theme:
+- Dark futuristic design
+- Black background (#050816)
+- Electric blue and cyan highlights
+- Glassmorphism UI
+- Fully responsive
+- Smooth animations
 
----
+====================================================
 
-# 👨‍💻 About Me
+BACKGROUND ANIMATION
 
-🎓 Final-Year **B.Tech Computer Science Engineering** Student at **KL University**
+Create a custom AI-inspired animated background.
 
-🤖 Passionate about **Artificial Intelligence, Machine Learning, and Computer Vision**
+Features:
 
-💻 Developing modern applications using **Python, Java, React, and Cloud Technologies**
+1. Neural network visualization
+   - Thousands of floating nodes
+   - Dynamic connections
+   - Real-time movement
 
-🚀 Interested in building intelligent systems that solve real-world challenges
+2. AI brain animation
+   - Particle-based brain outline
+   - Pulsing neural signals
 
-🌱 Currently learning **Deep Learning, Generative AI, and Advanced Software Development**
+3. Data stream effects
+   - Flowing binary particles
+   - Matrix-style code rain
 
-🎯 Seeking opportunities in **Software Development, AI/ML Engineering, and Full-Stack Development**
+4. Circuit board animation
+   - Moving electric pathways
+   - Holographic glow
 
-🤝 Open to collaboration on innovative projects and open-source contributions
+5. Interactive mouse effects
+   - Nodes react to cursor
+   - Connection lines form around cursor
 
----
+6. Floating technology icons
+   - AI
+   - Cloud
+   - Database
+   - Machine Learning
+   - Computer Vision
 
-# 🛠️ Tech Stack
+Use:
+- TSParticles
+- Three.js
+- Framer Motion
 
-### Programming Languages
+Make it look like an Artificial Intelligence system processing data in real time.
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,js,mysql" />
-</p>
+====================================================
 
-### Frontend Development
+LOADING SCREEN
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap,html,css" />
-</p>
+Create a premium loading screen.
 
-### Backend Development
+Display:
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi" />
-</p>
+AI Neural Network Initializing...
 
-### AI / Machine Learning
+Animated brain visualization
 
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
-</p>
+Loading percentage
 
-<p>
-NumPy • Pandas • Matplotlib • Scikit-Learn • Deep Learning
-</p>
+Smooth fade transition
 
-### Databases
+====================================================
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,firebase" />
-</p>
+NAVBAR
 
-### Tools & Platforms
+Logo:
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,azure,vscode,figma" />
-</p>
+<Yaswanth />
 
----
+Menu:
 
-# 🚀 Featured Projects
+- About
+- Skills
+- Experience
+- Projects
+- Certifications
+- Contact
 
-### 📚 Library Management System
+Sticky navbar
 
-Full-stack web application for managing books, users, and transactions.
+Glass effect
 
-**Tech Stack:** React • Node.js • MySQL
+Scroll indicator
 
----
+====================================================
 
-### 🤖 AI & Machine Learning Projects
+HERO SECTION
 
-Machine Learning and Computer Vision applications built using TensorFlow, OpenCV, NumPy, and Pandas.
+Profile Photo:
+Use my professional photo.
 
----
+Display inside:
 
-### 🧠 Final Year Project
+- Animated holographic frame
+- Floating glow effect
+- AI particle orbit effect
 
-AI-powered solution focused on solving practical real-world challenges through intelligent automation and analytics.
+Text:
 
----
+AMMINENI YASWANTH KUMAR
 
-# 📜 Certifications
+Animated Roles:
 
-🏆 Salesforce AI Associate
+- AI Engineer
+- Computer Vision Engineer
+- Full-Stack Developer
+- Automation Engineer
+- Software Developer
 
-🏆 MongoDB Certification
+Subtitle:
 
-🏆 WTN Data Science with Python
+Building intelligent systems, AI-powered applications, and scalable software solutions that solve real-world challenges.
 
-🏆 NPTEL Programming in Java
+Buttons:
 
----
+- View Projects
+- Download Resume
+- Contact Me
 
-# 📊 GitHub Statistics
+Social Links:
 
-<div align="center">
+GitHub
+LinkedIn
+Email
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yaswanth20052&show_icons=true&theme=tokyonight&hide_border=true"/>
+====================================================
 
-<img width="49%" src="https://streak-stats.demolab.com?user=yaswanth20052&theme=tokyonight&hide_border=true"/>
+ABOUT SECTION
 
-</div>
+Title:
 
-<div align="center">
+About Me
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanth20052&layout=compact&theme=tokyonight&hide_border=true"/>
+Content:
 
-</div>
+I am a final-year Computer Science Engineering student at KL University specializing in AI Systems for Visual Intelligence.
 
----
+I am passionate about Artificial Intelligence, Machine Learning, Computer Vision, Deep Learning, Automation, and Full-Stack Development.
 
-# 🏆 GitHub Achievements
+I enjoy building intelligent applications, solving engineering challenges, and creating scalable software solutions.
 
-<div align="center">
+Currently focused on AI-powered systems, cloud technologies, and software engineering opportunities.
 
-<img src="https://github-profile-trophy.vercel.app/?username=yaswanth20052&theme=tokyonight&row=1&column=6&no-frame=true"/>
+Display:
 
-</div>
+CGPA: 8.81
 
----
+Add:
+- Animated counters
+- Achievement badges
 
-# 📈 Contribution Graph
+====================================================
 
-<div align="center">
+SKILLS SECTION
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yaswanth20052&theme=tokyo-night&hide_border=true"/>
+Display as animated glass cards.
 
-</div>
+Programming Languages:
+- Python
+- Java
+- C
 
----
+AI & Machine Learning:
+- Machine Learning
+- Deep Learning
+- OpenCV
+- YOLOv8
 
-# 🌐 Connect With Me
+Web Development:
+- HTML
+- CSS
+- JavaScript
+- React
 
-<div align="center">
+Databases:
+- MongoDB
+- MySQL
+- SQL
 
-<a href="mailto:2300033131cse2@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+Tools:
+- Git
+- GitHub
+- VS Code
+- Google Colab
 
-<a href="https://www.linkedin.com/in/yaswanth-kumar-12273034a">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+Cloud:
+- Azure Fundamentals
 
-<a href="https://github.com/yaswanth20052">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+====================================================
 
-</div>
+EXPERIENCE SECTION
 
----
+Embedded Systems Developer Virtual Intern
 
-<div align="center">
+AICTE NEAT Cell | EduSkills | Microchip Technology
 
-### 💡 "Learn • Build • Improve • Repeat"
+Jul 2025 – Sep 2025
 
-<img src="https://komarev.com/ghpvc/?username=yaswanth20052&style=for-the-badge&color=blue"/>
+Highlights:
 
-</div>
+- Completed a structured 10-week internship
+- Earned Grade A Certification
+- Worked on embedded systems development
+- Learned microcontroller fundamentals
+- Developed embedded design workflow knowledge
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:2563EB,100:06B6D4"/>
+Timeline style design
+
+====================================================
+
+PROJECTS SECTION
+
+Create premium project cards.
+
+Project 1
+
+AI Face Detection and Recognition System
+
+Tech:
+Python
+OpenCV
+Machine Learning
+
+Highlights:
+
+- Real-time face recognition
+- 5000+ training images
+- Attendance automation
+- 25+ FPS performance
+
+----------------------------------------------------
+
+Project 2
+
+Model Compression and Pruning using YOLOv8
+
+Tech:
+Python
+YOLOv8
+Deep Learning
+
+Highlights:
+
+- Reduced model size by 35%
+- Maintained 90%+ accuracy
+- Improved inference speed
+- Optimized for edge deployment
+
+====================================================
+
+CERTIFICATIONS
+
+Display as premium verification cards.
+
+1. Microsoft Azure Fundamentals (AZ-900)
+
+2. Salesforce Certified AI Associate
+
+3. MongoDB Associate Developer
+
+4. Automation Anywhere Certified Advanced Automation Professional
+
+Issued:
+June 2026
+
+Expires:
+June 2028
+
+Credential ID:
+AAADVC2024A360-185204232
+
+Remove:
+- WTN Data Science with Python
+- NPTEL Programming in Java
+
+====================================================
+
+ACHIEVEMENTS
+
+- Built AI-powered applications
+- Strong academic performance
+- Certified in AI and Cloud technologies
+- Active GitHub contributor
+
+====================================================
+
+CONTACT SECTION
+
+Email:
+2300033131cse2@gmail.com
+
+Phone:
++91 9949925455
+
+Location:
+Nellore, Andhra Pradesh, India
+
+GitHub:
+https://github.com/yaswanth20052
+
+LinkedIn:
+https://www.linkedin.com/in/yaswanth-kumar-12273034a/
+
+Create:
+- Modern contact form
+- Validation
+- Smooth animations
+
+====================================================
+
+RESUME
+
+Use downloadable resume button.
+
+Button:
+Download Resume
+
+Features:
+- Download PDF
+- Open in new tab
+- Hover animation
+- Download icon
+
+====================================================
+
+FOOTER
+
+© 2026 AMMINENI YASWANTH KUMAR
+
+Built with React, TypeScript and AI.
+
+====================================================
+
+PERFORMANCE
+
+Requirements:
+
+- Lighthouse score above 90
+- SEO optimized
+- Fast loading
+- Mobile responsive
+- Accessibility compliant
+- Clean folder structure
+- Production-ready code
+
+Generate the complete source code with all components, animations, assets structure, routing, and responsive design.
