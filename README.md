@@ -2,83 +2,129 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:2563EB,100:06B6D4&text=Yaswanth%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<h3>🚀 AI & Software Engineering Enthusiast</h3>
+<h3>🚀 AI Enthusiast • Software Developer • Automation Anywhere Certified Professional</h3>
 
-<p>
-Final-Year B.Tech CSE Student | Passionate about Artificial Intelligence, Machine Learning & Software Development
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&width=800&lines=Artificial+Intelligence+Enthusiast;Machine+Learning+Developer;Full+Stack+Developer;Automation+Anywhere+Certified;Always+Learning+New+Technologies" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=2500&pause=1000&center=true&width=700&lines=Artificial+Intelligence+Enthusiast;Machine+Learning+Developer;Full+Stack+Developer;Problem+Solver;Always+Learning+New+Technologies" />
-
-<p>
-<img src="https://komarev.com/ghpvc/?username=yaswanth20052&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=yaswanth20052&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# 🚀 About Me
 
-🎓 Final-Year B.Tech Computer Science Engineering Student at **KL University**
+<table>
+<tr>
+<td width="55%">
+
+## 👋 Hi there! I'm Yaswanth Kumar
+
+🎓 Final-Year B.Tech CSE Student at **KL University**
 
 🤖 Passionate about **Artificial Intelligence, Machine Learning, and Computer Vision**
 
-💻 Skilled in **Python, Java, React, MySQL, MongoDB, and AI-powered Application Development**
+💻 Building intelligent applications using modern technologies
 
-🚀 Building projects that solve real-world problems using modern technologies
+🏆 Automation Anywhere Certified Advanced Automation Professional
 
-🌱 Currently learning **Deep Learning, Generative AI, and Advanced Software Engineering**
+🌱 Currently Learning:
 
-🎯 Looking for opportunities in **Software Development, AI/ML Engineering, and Full-Stack Development**
+- Deep Learning
+- Generative AI
+- Intelligent Automation
+- Advanced Software Engineering
 
-🤝 Open to collaboration on innovative projects and open-source contributions
+🎯 Career Goals:
+
+- AI Engineer
+- Software Developer
+- Full Stack Developer
+
+🤝 Open To:
+
+- Open Source Contributions
+- AI/ML Collaborations
+- Innovative Projects
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=2500&pause=1000&color=8B5CF6&width=450&lines=Always+Learning...;Always+Building...;Always+Improving..." />
+
+</td>
+
+<td width="45%">
+
+<img width="100%" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## ⚡ Tech Focus
+
+| 🧠 AI / ML | 💻 Full Stack | 🤖 Automation |
+|------------|---------------|---------------|
+| TensorFlow | React | Automation Anywhere |
+| OpenCV | Node.js | RPA |
+| Scikit-Learn | Express.js | Process Automation |
+| Deep Learning | MongoDB | Intelligent Workflows |
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 Skill Levels
+
+```text
+Artificial Intelligence   ██████████████░░ 90%
+Machine Learning          █████████████░░░ 85%
+Full Stack Development    ███████████░░░░░ 75%
+Problem Solving           █████████████░░░ 85%
+Automation               ████████████░░░░ 80%
+```
+
+</div>
 
 ---
 
 # 🛠️ Tech Stack
 
-### Programming Languages
+<div align="center">
 
-<p align="left">
+### Languages
+
 <img src="https://skillicons.dev/icons?i=python,java,c,javascript,mysql" />
-</p>
 
-### Frontend Development
+### Frontend
 
-<p align="left">
 <img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap,html,css" />
-</p>
 
-### Backend Development
+### Backend
 
-<p align="left">
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
 
-### AI / Machine Learning
+### AI / ML
 
-<p align="left">
 <img src="https://skillicons.dev/icons?i=tensorflow" />
-</p>
 
-- OpenCV
-- NumPy
-- Pandas
-- Matplotlib
-- Scikit-Learn
+OpenCV • NumPy • Pandas • Matplotlib • Scikit-Learn
 
 ### Databases
 
-<p align="left">
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase" />
-</p>
 
-### Tools & Platforms
+### Tools
 
-<p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>
+
+</div>
 
 ---
 
@@ -110,9 +156,7 @@ AI-powered solution focused on intelligent automation and real-world problem sol
 
 🏆 MongoDB Certification
 
-🏆 Automation Anywhere Certified Essentials RPA Professional
-
-🏆 Automation Anywhere Certified Advanced Automation Professional (CAAP)
+🏆 Automation Anywhere Certified Advanced Automation Professional
 
 ---
 
@@ -176,8 +220,12 @@ AI-powered solution focused on intelligent automation and real-world problem sol
 
 <div align="center">
 
-### 💡 Learn • Build • Improve • Repeat
+## 💡 Building the Future, One Line of Code at a Time
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </div>
+
+---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:2563EB,100:06B6D4"/>
