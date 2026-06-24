@@ -128,14 +128,55 @@ OpenCV • NumPy • Pandas • Matplotlib • Scikit-Learn
 
 ---
 
+
 # 🚀 Featured Projects
 
-### 📚 Library Management System
+## 🤖 AI Face Detection & Recognition System
 
-A full-stack web application for managing books, users, and transactions.
+Developed an intelligent computer vision application capable of detecting and recognizing human faces in real-time using advanced image processing and machine learning techniques.
 
-**Tech Stack:** React • Node.js • MySQL
+### Key Features
+- Real-time face detection
+- Face recognition and identification
+- Image preprocessing and feature extraction
+- High accuracy recognition pipeline
+- Scalable computer vision architecture
 
+### Technologies Used
+`Python` • `OpenCV` • `NumPy` • `Machine Learning`
+
+### Skills Demonstrated
+Computer Vision • Image Processing • Deep Learning Fundamentals • AI Application Development
+
+---
+
+## 🧠 Model Compression & Performance Optimization
+
+Designed and implemented techniques to reduce machine learning model size while maintaining performance, enabling faster inference and efficient deployment.
+
+### Key Features
+- Model optimization techniques
+- Reduced memory consumption
+- Improved inference speed
+- Performance benchmarking
+- Efficient deployment-ready architecture
+
+### Technologies Used
+`Python` • `TensorFlow` • `NumPy` • `Pandas`
+
+### Skills Demonstrated
+Machine Learning • Deep Learning • Model Optimization • Performance Engineering • AI Deployment
+
+---
+
+### 🎯 Current Focus
+
+- Artificial Intelligence
+- Machine Learning
+- Computer Vision
+- Deep Learning
+- Intelligent Automation
+- Full Stack Development
 ---
 
 ### 🤖 AI & Machine Learning Projects
