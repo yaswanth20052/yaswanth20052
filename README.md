@@ -1,97 +1,148 @@
 <div align="center">
 
-# 👋 Hi, I'm Yaswanth Kumar
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Yaswanth%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-### 🚀 Final-Year B.Tech CSE Student | AI & Software Engineering Enthusiast
+<h3>🚀 AI Engineer • Full Stack Developer • Problem Solver</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+%26+ML+Enthusiast;Full-Stack+Developer;Problem+Solver;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&width=800&lines=Artificial+Intelligence+Enthusiast;Machine+Learning+Developer;Full+Stack+Engineer;Building+Projects+That+Matter"/>
 
 </div>
 
 ---
 
-## 💫 About Me
+# 💫 About Me
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+```python
+class Yaswanth:
 
-🎓 Final-Year B.Tech CSE Student at **KL University**
+    def __init__(self):
+        self.role = "B.Tech CSE Student"
+        self.university = "KL University"
+        self.interests = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Computer Vision",
+            "Full Stack Development"
+        ]
 
-🤖 Passionate about **Artificial Intelligence & Machine Learning**
-
-💻 Building real-world applications using modern technologies
-
-🌱 Currently learning **Deep Learning, Generative AI & Cloud Computing**
-
-🤝 Open to collaborating on **AI/ML and Open Source Projects**
-
-🚀 Seeking opportunities as a **Software Developer / AI-ML Engineer**
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
-
-### AI / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
+    def current_focus(self):
+        return [
+            "Deep Learning",
+            "Generative AI",
+            "Cloud Computing"
+        ]
+```
 
 ---
 
-## 📊 GitHub Stats
+## ⚡ Tech Arsenal
 
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yaswanth20052&show_icons=true&theme=tokyonight&hide_border=true"/>
+<div align="center">
 
-<img width="49%" src="https://streak-stats.demolab.com?user=yaswanth20052&theme=tokyonight&hide_border=true"/>
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,c,js,react,nodejs,express,mongodb,mysql,docker,git,github,tensorflow,opencv,aws,azure,vscode&perline=9" />
 
-<p align="center">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanth20052&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+</div>
+
+---
+
+## 📈 Performance Dashboard
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yaswanth20052&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanth20052&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=yaswanth20052&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=yaswanth20052&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+## 📊 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yaswanth20052&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 📚 Library Management System
+
+- React
+- Node.js
+- MySQL
+- Authentication
+
+</td>
+
+<td width="50%">
+
+### 🤖 AI Project Suite
+
+- TensorFlow
+- OpenCV
+- Deep Learning
+- Data Analytics
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="center">
-<a href="https://github.com/yaswanth20052">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-</a>
+<div align="center">
 
 <a href="https://www.linkedin.com/in/yaswanth-kumar-12273034a">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:2300033131cse2@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
 </a>
-</p>
+
+<a href="https://github.com/yaswanth20052">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ "Code. Learn. Build. Repeat."
+### 💡 "Building Intelligent Solutions for Tomorrow"
 
-![](https://komarev.com/ghpvc/?username=yaswanth20052&color=blueviolet&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=yaswanth20052&style=for-the-badge&color=blue"/>
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
